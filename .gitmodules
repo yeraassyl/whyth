@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/yeraassyl/whyth-api
+[submodule "ui"]
+	path = ui
+	url = https://github.com/yeraassyl/whyth-ui
