@@ -52,8 +52,8 @@ Refer to `.env.example` and `config.go` for the complete list of env variables.
 ## Roadmap
 
 ### Work in progress
-- [ ] Use system message to limit AI responses
-- [ ] Teacher can configure the AI's behaviour (several options to map to system message)
+- [x] Use system message to limit AI responses
+- [x] Teacher can configure the AI's behaviour (several options to map to system message)
 - [ ] Teacher can Upload PDF files for AI to use as reference (use langchain)
  
 ### Needs to be done
