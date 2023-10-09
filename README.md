@@ -1,6 +1,6 @@
 # AI Teaching Assistant
 
-Use at https://whyth.app or deploy your own. 
+Use at ~~https://whyth.app~~ or deploy your own. 
 
 ***
 
